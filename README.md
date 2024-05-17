@@ -2,9 +2,9 @@
 - 👀 I’m interested in programação e website
 - 🌱 I’m currently learning introdução a ciência da computação 
 - 💞️ I’m looking to collaborate on em desenvolvimento programação de website e não só 
-- 📫 How to reach me podes entrar em contacto por via WhatsApp através do telefone (+2224) 95267881 ou por e-mail ngunza28@hotmail.com
+- 📫 How to reach me podes entrar em contacto por via WhatsApp através do telefone (+224) 951678810 ou por e-mail ngunza28@hotmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 joaquim-45/joaquim-45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
